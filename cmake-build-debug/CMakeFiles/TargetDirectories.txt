@@ -1,0 +1,3 @@
+/tmp/tmp.gVShx3CVyx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.gVShx3CVyx/cmake-build-debug/CMakeFiles/JsonParse.dir
+/tmp/tmp.gVShx3CVyx/cmake-build-debug/CMakeFiles/edit_cache.dir
